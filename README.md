@@ -2,7 +2,7 @@
 
 ### Junior Front-end Developer | Scrum Master | React | Next.js
 
-I am a results-oriented Front-end Developer based in **Grimsby, UK**. I specialize in building clean, modern, and high-performance web applications using **JavaScript, React, and Next.js**. With experience as a **Scrum Master**, I bring strong coordination and workflow management skills to every team project.
+I am a results-oriented Front-end Developer based in **Grimsby, UK**. I specialize in building clean, modern, and high-performance web applications using **JavaScript, React, and Next.js**. With experience as a **Scrum Master** during academic  projects, I bring strong coordination and workflow management skills to every team project.
 
 Currently expanding my expertise into **Node.js & Backend development** to build full-cycle web solutions.
 
