@@ -17,7 +17,7 @@ Currently expanding my expertise into **Node.js & Backend development** to build
 
 ### 💻 Featured Projects
 
-#### [Mebleria (2025)](https://mykhailenko-oleksandr.github.io/code-ua-furniture/) — Team Project
+#### [Mebleria (2025)](https://github.com/VitaKoval27/WatchCharm-2025-) — Team Project
 *Responsive web application simulating an online furniture store.*
 - **Role:** Scrum Master & Developer
 - **Key Contributions:**
@@ -26,7 +26,7 @@ Currently expanding my expertise into **Node.js & Backend development** to build
   - Responsible for final build, deployment, and performance optimization.
 - **Tech Stack:** HTML, CSS, JS, Responsive Design
 
-#### [WatchCharm (2025)](https://oleg-butenko.github.io/code-ua-project/) — Team Project
+#### [WatchCharm (2025)](https://github.com/VitaKoval27/Mebleria) — Team Project
 *Modern responsive website with a focus on visual effects and smooth UI.*
 - **Role:** Developer
 - **Key Contributions:**
@@ -40,6 +40,9 @@ Currently expanding my expertise into **Node.js & Backend development** to build
 ### 🗣️ Languages
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-B1%2FIntermediate-blue?style=flat-square)
+![Arabic](https://img.shields.io/badge/Arabic-A2-green?style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-A1-orange?style=flat-square)
+
 
 ---
 
